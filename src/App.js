@@ -7,7 +7,7 @@ const App = () => {
     <div className="flex flex-col w-[100vw] h-[100vh] justify-centre items-center bg-gray-200">
 
       
-      <div className="text-center mt-10">
+      <div className="text-center mt-20">
 
         <h1 className="text-4xl font-bold">Our Testimonials</h1>
 
